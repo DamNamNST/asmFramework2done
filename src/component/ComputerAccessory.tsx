@@ -17,15 +17,6 @@ const ComputerAccessory = (props: Props) => {
         },
         {
             title: 'Title 4',
-        },
-        {
-            title: 'Title 4',
-        },
-        {
-            title: 'Title 4',
-        },
-        {
-            title: 'Title 4',
         }
     ];
   return (
@@ -39,7 +30,7 @@ const ComputerAccessory = (props: Props) => {
             sm: 2,
             md: 4,
             lg: 4,
-            xl: 10,
+            xl: 5,
             xxl: 10,
         }}
         

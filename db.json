@@ -226,6 +226,16 @@
       "description": "Sử dụng tùy chỉnh bằng phần mềm CORSAIR iCUE cho phép điều khiển ánh sáng RGB động sống động, lập trình macro tinh vi và đồng bộ hóa ánh sáng toàn hệ thống trên các thiết bị ngoại vi.",
       "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1659860127/anhhtus/zhtu6crl2pps81ift9mb.jpg",
       "id": 18
+    },
+    {
+      "name": "testName",
+      "originalPrice": 12000,
+      "saleOffPrice": 11000,
+      "categories": 2,
+      "feature": "Sản phẩm test thêm mới",
+      "description": "Same",
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1660760134/anhhtus/espbvsmevdozvigaeuhv.jpg",
+      "id": 19
     }
   ],
   "categories": [
