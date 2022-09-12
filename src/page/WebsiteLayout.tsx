@@ -6,7 +6,7 @@ import Header from '../component/Header'
 const WebsiteLayout = () => {
   return (
     <div>
-<!--       <Header></Header> -->
+      //header
       <main>
         <Outlet></Outlet>
             
