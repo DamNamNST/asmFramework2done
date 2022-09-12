@@ -1,7 +1,7 @@
 import { List } from 'antd'
 import React from 'react'
 import styled from 'styled-components';
-import imageProduct from '../asset/images/pk3.png';
+import imageProduct from '../asset/images/pk1.png';
 import imageproduct from '../asset/images/pk2.png';
 type Props = {}
 

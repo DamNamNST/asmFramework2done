@@ -3,7 +3,7 @@ import banner from '../asset/images/Rectangle.png'
 const Banner = () => {
   return (
     <div>
-        <a href=""><img src={banner} width="900" alt="" /></a>
+        <a href="#"><img src={banner} width="900" alt="" /></a>
     </div>
   )
 }

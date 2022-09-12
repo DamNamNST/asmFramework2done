@@ -31,7 +31,7 @@ const ListProduct = (props: Props) => {
           sm: 2,
           md: 4,
           lg: 4,
-          xl: 4,
+          xl: 7,
           xxl: 3,
         }}
         dataSource={listProduct}
